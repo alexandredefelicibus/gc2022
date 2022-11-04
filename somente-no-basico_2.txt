@@ -1,1 +1,3 @@
 Nova linha no arquivo para merge
+
+Teste de conflito.
